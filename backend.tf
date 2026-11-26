@@ -5,7 +5,7 @@ terraform {
     organization = "aspoddar2026"
 
     workspaces {
-      name = "Azure_Terraform_26NOV26_dev"
+      name = "Azure_Terraform_26NOV26_dev1"
     }
   }
 }
